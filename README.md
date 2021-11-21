@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="center" alt="GIF" src="./jasem.gif" width="900" />
 
 
 I'm Jasem Valencia, an enthusiast full stack web developer and a freelance software engineer from Peru. 
@@ -44,8 +44,4 @@ RUBY         30 mins         ██▒░░░░░░░░░░░░░░
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasemduncan&show_icons=true&theme=gotham" alt="jasemduncan" />
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="195" />
-<<<<<<< HEAD
 </p>
-=======
-</p>
->>>>>>> 1f38c53 (Add info presentation)
