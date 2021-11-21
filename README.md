@@ -44,4 +44,8 @@ RUBY         30 mins         ██▒░░░░░░░░░░░░░░
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasemduncan&show_icons=true&theme=gotham" alt="jasemduncan" />
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="195" />
+<<<<<<< HEAD
 </p>
+=======
+</p>
+>>>>>>> 1f38c53 (Add info presentation)
