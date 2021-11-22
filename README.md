@@ -22,18 +22,27 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 <p></p>
-<p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasemduncan&show_icons=true&theme=gotham" alt="jasemduncan" />
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="193" />
-</p>
 
+<div style=" display:flex; flex-direction:column; ">
+    <div>
+        <p align="center"> 
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=jasemduncan&show_icons=true&theme=gotham" alt="jasemduncan" />
+        <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="193" />
+        </p>
+    </div>
+    <div>
+        <p></p>
+        <p style="color: rgb(42,167,136); font-size: 15px; font-weight: bold;">
+        This week i spent my time on:
 
-**This week i spent my time on:**
+        ```text
+        JavaScript   3 hrs 21 mins   ███████████▒░░░░░   60 %  
+        HTML         2 hrs 7 mins    ███████▒░░░░░░░░░   25 % 
+        CSS          1 hr 1 min      ███▒░░░░░░░░░░░░░   10 % 
+        RUBY         30 mins         ██▒░░░░░░░░░░░░░░   05 % 
 
-```text
-JavaScript   3 hrs 21 mins   ███████████▒░░░░░   60 %  
-HTML         2 hrs 7 mins    ███████▒░░░░░░░░░   25 % 
-CSS          1 hr 1 min      ███▒░░░░░░░░░░░░░   10 % 
-RUBY         30 mins         ██▒░░░░░░░░░░░░░░   05 % 
+        ```
+        </p>
+    </div>
 
-```
+</div>
