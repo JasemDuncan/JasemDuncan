@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <div>
         <p align="center"> 
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=jasemduncan&show_icons=true&theme=gotham" alt="jasemduncan" />
-        <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="193" />
+        <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="193" />
         </p>
     </div>
     <div>
