@@ -23,26 +23,12 @@ Here are some ideas to get you started:
 
 <p></p>
 
-<div style=" display:flex; flex-direction:column; ">
+<div>
     <div>
         <p align="center"> 
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=jasemduncan&show_icons=true&theme=gotham" alt="jasemduncan" />
         <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="193" />
         </p>
-    </div>
-    <div>
-        <!-- <p></p>
-        <p style="color: rgb(42,167,136); font-size: 15px; font-weight: bold;">
-            This week i spent my time on:
 
-            
-            JavaScript   3 hrs 21 mins   ███████████▒░░░░░   60 %  
-            HTML         2 hrs 7 mins    ███████▒░░░░░░░░░   25 % 
-            CSS          1 hr 1 min      ███▒░░░░░░░░░░░░░   10 % 
-            RUBY         30 mins         ██▒░░░░░░░░░░░░░░   05 % 
- -->
-
-
-</p>
 </div>
 </div>
