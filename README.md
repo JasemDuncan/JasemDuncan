@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         </p>
     </div>
     <div>
-        <p></p>
+        <!-- <p></p>
         <p style="color: rgb(42,167,136); font-size: 15px; font-weight: bold;">
             This week i spent my time on:
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
             HTML         2 hrs 7 mins    ███████▒░░░░░░░░░   25 % 
             CSS          1 hr 1 min      ███▒░░░░░░░░░░░░░   10 % 
             RUBY         30 mins         ██▒░░░░░░░░░░░░░░   05 % 
-
+ -->
 
 
 </p>
