@@ -33,16 +33,16 @@ Here are some ideas to get you started:
     <div>
         <p></p>
         <p style="color: rgb(42,167,136); font-size: 15px; font-weight: bold;">
-        This week i spent my time on:
+            This week i spent my time on:
 
-        ```text
-        JavaScript   3 hrs 21 mins   ███████████▒░░░░░   60 %  
-        HTML         2 hrs 7 mins    ███████▒░░░░░░░░░   25 % 
-        CSS          1 hr 1 min      ███▒░░░░░░░░░░░░░   10 % 
-        RUBY         30 mins         ██▒░░░░░░░░░░░░░░   05 % 
+            
+            JavaScript   3 hrs 21 mins   ███████████▒░░░░░   60 %  
+            HTML         2 hrs 7 mins    ███████▒░░░░░░░░░   25 % 
+            CSS          1 hr 1 min      ███▒░░░░░░░░░░░░░   10 % 
+            RUBY         30 mins         ██▒░░░░░░░░░░░░░░   05 % 
 
-        ```
-        </p>
-    </div>
 
+
+</p>
+</div>
 </div>
